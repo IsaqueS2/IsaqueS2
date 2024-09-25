@@ -9,7 +9,7 @@
 <div id="aboutMe">
     <h3> <b>About me</b><br><br></h3>
   <ul>
-    <li> I'm 19 years old;                                                                      </li>
+    <li> I'm 20 years old;                                                                      </li>
     <li> Started my programming journey last year;                                              </li>
     <li> Currently learning front-end development;                                              </li>
     <li> Looking for a job oportunity;                                                          </li>
